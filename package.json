@@ -1,0 +1,23 @@
+{
+  "name": "screenshotter",
+  "version": "0.0.1",
+  "description": "expirements",
+  "bin": {
+    "screenshotter": "./screenshotter.js"
+  },
+  "dependencies": {
+    "commander": "^2.19.0",
+    "lodash": "^4.17.11",
+    "puppeteer": "^1.11.0"
+  },
+  "author": "Edgar Felix <eaafelix@gmail.com>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/edgaraafelix/screenshotter.git"
+  },
+  "bugs": {
+    "url": "https://github.com/edgaraafelix/screenshotter/issues"
+  },
+  "homepage": "https://github.com/edgaraafelix/screenshotter"
+}

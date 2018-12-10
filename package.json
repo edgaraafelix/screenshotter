@@ -1,7 +1,8 @@
 {
   "name": "screenshotter",
-  "version": "0.0.1",
-  "description": "expirements",
+  "version": "1.0.0",
+  "description": "Experimenting with puppeteer and commander.js",
+  "main": "screenshotter.js",
   "bin": {
     "screenshotter": "./screenshotter.js"
   },
@@ -10,6 +11,13 @@
     "lodash": "^4.17.11",
     "puppeteer": "^1.11.0"
   },
+  "keywords": [
+    "screenshots",
+    "puppeteer",
+    "screenshot",
+    "commander",
+    "screenshotter"
+  ],
   "author": "Edgar Felix <eaafelix@gmail.com>",
   "license": "MIT",
   "repository": {

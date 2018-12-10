@@ -1,5 +1,5 @@
 {
-  "name": "screenshotter",
+  "name": "screenshot-cli",
   "version": "1.0.0",
   "description": "Experimenting with puppeteer and commander.js",
   "main": "screenshotter.js",

@@ -5,7 +5,7 @@ Experimenting with [puppeteer](https://github.com/GoogleChrome/puppeteer/) and [
 
 #### Installation
 
-```npm install -g screenshotter```
+```npm install -g screenshotter-cli```
 
 #### Usage
 

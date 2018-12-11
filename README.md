@@ -23,7 +23,7 @@ With specific element;
 
 Emulate device:
 
-```screenshotter.js --url https://github.com --device "iPhone 6"```
+```screenshotter --url https://github.com --device "iPhone 6"```
 
 #### Options
 
